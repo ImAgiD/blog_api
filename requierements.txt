@@ -1,0 +1,7 @@
+djangorestframework
+djangorestframework-simpleJWT
+psycopg2-binary
+python-decouple
+Pillow
+django-filter
+django-jazzmin
